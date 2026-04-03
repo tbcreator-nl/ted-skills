@@ -1,6 +1,6 @@
-# Unmuted Skills
+# Ted Skills
 
-Shared Claude Code skills for the Unmuted team. Drop any skill folder into your `.claude/skills/` directory to use it.
+Shared Claude Code skills. Drop any skill folder into your `.claude/skills/` directory to use it.
 
 ## Available Skills
 
@@ -14,10 +14,10 @@ Shared Claude Code skills for the Unmuted team. Drop any skill folder into your 
 
 ```bash
 # Clone this repo somewhere on your machine
-git clone https://github.com/tbcreator-nl/unmuted-skills.git ~/unmuted-skills
+git clone https://github.com/tbcreator-nl/ted-skills.git ~/ted-skills
 
 # Symlink skills you want into your Claude Code skills directory
-ln -s ~/unmuted-skills/competitor-sweep ~/.claude/skills/competitor-sweep
+ln -s ~/ted-skills/competitor-sweep ~/.claude/skills/competitor-sweep
 ```
 
 ### Option 2: Copy directly
